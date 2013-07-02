@@ -1,0 +1,72 @@
+# JOE state file v1.0
+search
+	backwards 0
+	ignore 0
+	replace 0
+	block_restrict 0
+done
+macros
+done
+files
+	".git/COMMIT_EDITMSG\n"
+	".git/COMMIT_EDITMSG\n"
+	"LICENSE.txt\n"
+	"LICENSE.TXT\n"
+done
+find
+done
+replace
+done
+run
+done
+build
+done
+grep
+done
+cmd
+done
+math
+done
+yank
+	"He firs"
+	"o"
+	"\"m "
+	"."
+	"Irst "
+	"o"
+	", "
+	"have"
+	"ba"
+	"yly h"
+	"le pag"
+	"page when\nI know "
+	"."
+	"and kindergarden providers schd"
+	"hde"
+	"edu"
+	"er"
+	"ry "
+	"n"
+	"that "
+	"'m done."
+	"stop learni"
+	"I kno"
+	"\n"
+	"hile]]"
+	"oi"
+	"going"
+	" to"
+	", "
+	"\n"
+	"fi you"
+	" for any pt"
+	"Don'"
+	" to "
+	"l"
+	"i"
+done
+file_pos
+	6 ".git/COMMIT_EDITMSG"
+	0 "LICENSE.txt"
+	7 "LICENSE.TXT"
+done
